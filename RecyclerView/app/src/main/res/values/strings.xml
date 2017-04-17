@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birds</string>
+    <string name="back">种类</string>
+    <string name="text">鸟类</string>
+</resources>
